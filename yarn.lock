@@ -8672,7 +8672,7 @@ rax-text@^1.0.0, rax-text@^1.0.1:
   dependencies:
     universal-env "^3.0.0"
 
-rax-view@^1.0.2:
+rax-view@^1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/rax-view/-/rax-view-1.1.2.tgz#3fb43a007ab1a0fbc14c633a2aaf46f16adede5a"
   integrity sha512-HYUDcOMcJ1uVfa5ITXDlJNyjT7ivQkJstlrUXC9agmFPh8HFk6ZRLtJilgMPFO4FXK7vmcA83UKTfmfCcFIUQw==

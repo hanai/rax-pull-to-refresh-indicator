@@ -11,11 +11,9 @@ import findDOMNode from 'rax-find-dom-node';
 import styles from './styles';
 
 export enum PullToRefreshState {
-  STATIC = 0,
   PULLING = 1,
   READY = 2,
   REFRESHING = 3,
-  RETRACTING = 4,
 }
 
 export interface PullToRefreshIndicatorProps {
@@ -135,11 +133,9 @@ const PullToRefreshIndicator = (props: PullToRefreshIndicatorProps) => {
 PullToRefreshIndicator.defaultProps = {
   style: {},
   textMap: {
-    [PullToRefreshState.STATIC]: '下拉可以刷新',
     [PullToRefreshState.PULLING]: '下拉可以刷新',
     [PullToRefreshState.READY]: '松开刷新内容',
     [PullToRefreshState.REFRESHING]: '刷新中',
-    [PullToRefreshState.RETRACTING]: '下拉可以刷新',
   },
   hasIcon: true,
   hasText: true,

@@ -1,3 +1,7 @@
+## 1.0.0 (May 17, 2020)
+
+* Simplify PullToRefreshState
+
 ## 0.0.3 (May 15, 2020)
 
 * Upgrade deps

@@ -15,13 +15,11 @@ const App = () => {
     <View>
       <View style={styles.btnList}>
         {[
-          PullToRefreshState.STATIC,
           PullToRefreshState.PULLING,
           PullToRefreshState.READY,
           PullToRefreshState.REFRESHING,
-          PullToRefreshState.RETRACTING,
         ].map((e) => (
-          <Text style={styles.btn} onClick={() => setPtrState(e)}>
+          <Text style={styles.btn} key={e} onClick={() => setPtrState(e)}>
             {PullToRefreshState[e]}
           </Text>
         ))}

@@ -4,7 +4,6 @@ import View from 'rax-view';
 import Text from 'rax-text';
 import Icon from 'rax-icon';
 
-// @ts-ignore
 import animate from 'universal-animation';
 import findDOMNode from 'rax-find-dom-node';
 

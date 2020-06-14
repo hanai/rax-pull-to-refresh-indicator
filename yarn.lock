@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@alib/build-scripts@^0.1.22":
-  version "0.1.22"
-  resolved "https://registry.yarnpkg.com/@alib/build-scripts/-/build-scripts-0.1.22.tgz#570a6dbb5c46bff72976149ac9a090ae2fefc1cb"
-  integrity sha512-vjdNpZ6vNN27MoikpmO1Ykv1LPJwF5yO8N2MCy9bxaS30pf5h7T3POHmWphC7iHy5wnGURTsFTTf4HcAxZJMYQ==
+"@alib/build-scripts@^0.1.23":
+  version "0.1.23"
+  resolved "https://registry.yarnpkg.com/@alib/build-scripts/-/build-scripts-0.1.23.tgz#85a3034d7030f05f8bb744f8fa26869b1d0b72b4"
+  integrity sha512-9X4sIMES3Ci3X3Q7tZEZmq7kny5m5QsLxivyG2VPvTidWk8I6z4E010APz8hXQcOyB1rJY5EJrODkhgDOLKoiA==
   dependencies:
     address "^1.1.0"
     camelcase "^5.3.1"
@@ -8639,10 +8639,10 @@ rax-get-element-by-id@^1.0.0:
     rax "^1.0.0"
     universal-env "^1.0.0"
 
-rax-icon@^1.3.1:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/rax-icon/-/rax-icon-1.3.1.tgz#1a7925da5e391eaceba8612e76331d58f9754a3c"
-  integrity sha512-kXOcD9czUdelPUTzUwy0p4BtEoK42tuDbhv8y9VK4FdF9cSLpvis5y241Wld776gttXbTohj+OI0jy4lYwQfoA==
+rax-icon@^1.3.4:
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/rax-icon/-/rax-icon-1.3.4.tgz#ac368004ccba583a843d5354e1f54d4689483485"
+  integrity sha512-rIieu5zOlMFvoZrham+K3k4IjVhd66MGviseJzjWiGHRP4Q/g80vMMzrOy0ddFQFj+ZA+RP+VT3LgalhDz9fuw==
   dependencies:
     rax-image "^1.0.1"
     rax-text "^1.0.1"
@@ -8693,10 +8693,10 @@ rax@^1.0.0:
     rax-create-factory "^1.0.0"
     rax-is-valid-element "^1.0.0"
 
-rax@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/rax/-/rax-1.1.2.tgz#06fb40498cd11153a22e6fdf22d3763e40e01049"
-  integrity sha512-1LPXTj8kM2NQzjJXEFU0A/TLVgVdA6jC5fv0MhjSbi7IcCRCxB1zX8msNDfpFiEWvP4xdHTNTPuD/RX/9k1cUw==
+rax@^1.1.3:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/rax/-/rax-1.1.3.tgz#4498ef2f3074ef4317cb0802d81442e0ea614922"
+  integrity sha512-MPOydNpBjqW0O1JKXX+yrs2mRdJJBVwktSnVd1Tmy41/x/7CkB27hZsbLVbgGsoRh4ZMnxAuebP2bKgyE99k6A==
   dependencies:
     "@babel/runtime" "^7.2.0"
     driver-server "^1.0.0"
@@ -10263,10 +10263,10 @@ typescript@^3.5.3:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.8.3.tgz#409eb8544ea0335711205869ec458ab109ee1061"
   integrity sha512-MYlEfn5VrLNsgudQTVJeNaQFUAI7DkhnOjdpAp4T+ku1TfQClewlbSuTVHiA+8skNBgaf02TL/kLOvig4y3G8w==
 
-typescript@^3.9.2:
-  version "3.9.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.2.tgz#64e9c8e9be6ea583c54607677dd4680a1cf35db9"
-  integrity sha512-q2ktq4n/uLuNNShyayit+DTobV2ApPEo/6so68JaD5ojvc/6GClBipedB9zNWYxRSAlZXAe405Rlijzl6qDiSw==
+typescript@^3.9.5:
+  version "3.9.5"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.5.tgz#586f0dba300cde8be52dd1ac4f7e1009c1b13f36"
+  integrity sha512-hSAifV3k+i6lEoCJ2k6R2Z/rp/H3+8sdmcn5NrS3/3kE7+RyZXm9aqvxWqjEXHAd8b0pShatpcdMTvEdvAJltQ==
 
 uglify-js@3.4.x:
   version "3.4.10"
@@ -10418,10 +10418,10 @@ unist-util-visit@^1.1.0:
   dependencies:
     unist-util-visit-parents "^2.0.0"
 
-universal-animation@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/universal-animation/-/universal-animation-1.1.0.tgz#3abf8c2582059c54e3b0836b79b75c1e0147a9bb"
-  integrity sha512-a2V7JqlTcLeMFlw825dFTKU6oz1z3msVdWmnHU77MkreMeNTom+cN/fXIJKI057etN2NTjQ/0FRDpJEWVKxC9g==
+universal-animation@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/universal-animation/-/universal-animation-1.1.2.tgz#e109cca079a8ac5ed032ab16d5384da2efb08996"
+  integrity sha512-fDi/jAdPrYmqPiQ1iqoXQ2igr8CgMTSobXzwxVwT2MTdHU2a2q3sdn0hbXEuQ8KyINi8qxZ9jLApaC4u49QqGg==
   dependencies:
     universal-env "^3.0.0"
     universal-transition "^1.0.1"
